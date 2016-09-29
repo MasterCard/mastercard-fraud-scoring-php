@@ -1,0 +1,22 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 1
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest",
+    "test": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest::test_example_score"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest",
+    "test": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest::test_example_score",
+    "status": "pass",
+    "time": 0.60739398002625,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
