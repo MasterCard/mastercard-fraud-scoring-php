@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="17" failures="0" errors="0" time="0.549735">
+    <testsuite name="MasterCard\Api\FraudScoring\ScoreLookupTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Fraudscoring-Php/workspace/generated-code/fraud-scoring/php/sdk/Test/MasterCard/Api/FraudScoring/ScoreLookupTest.php" tests="1" assertions="17" failures="0" errors="0" time="0.549735">
+      <testcase name="test_example_score" class="MasterCard\Api\FraudScoring\ScoreLookupTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-Fraudscoring-Php/workspace/generated-code/fraud-scoring/php/sdk/Test/MasterCard/Api/FraudScoring/ScoreLookupTest.php" line="54" assertions="17" time="0.549735"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
