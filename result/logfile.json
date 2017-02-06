@@ -1,0 +1,22 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 1
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\FraudScoring\\ScoreLookupTest",
+    "test": "Warning",
+    "status": "warning",
+    "time": 0.0013291835784912,
+    "trace": [],
+    "message": "No tests found in class \"MasterCard\\Api\\FraudScoring\\ScoreLookupTest\".\n",
+    "output": ""
+}
